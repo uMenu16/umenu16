@@ -4,4 +4,4 @@ uMenu16 aims to be a simple, lightweight, easy-to-use and open source shell repl
 
 uMenu16 follows the KISS principle (Keep It Simple, Stupid), which means that it has been designed to be as minimal as possible. While its not that customizable itself, it allows you to customize the whole rest of the system. 
 
-[img]http://www.umenu16.xyz/assets/images/ss/ss4.png[/img]
+![alt text](https://raw.githubusercontent.com/uMenu16/umenu16.github.io/master/assets/images/ss/ss3.png)
